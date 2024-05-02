@@ -5,6 +5,7 @@ Este repositório criado para documentar todo o meu passo a passo, projetos e co
 📌  <strong>Trilha de Back-end Java do Santander Bootcamp 2024</strong>  
 📌  <strong>Módulo Dominando a Linguagem de Programação Java</strong>  
 📌  <strong>Curso Aprendendo a Sintaxe Java</strong>  
+📌  <strong>Instrutor Gleyson Sampaio</strong>  
 
 
 ### 🚦 Confira a grade completa
