@@ -17,6 +17,10 @@ double salMedio = 1500.23 // varivel abreviada
 String emails = "aluno@escola.com" // variavel no plural
 String myName = " JOSEPH"  // manter o mesmo idioma
 
-
+Recomendado
+double salarioMedio = 1500.23;
+String email = "aluno@escola.com";
+String[] emails = {"aluno@escola.com", "professor@escola.com"};
+String meuNome = "JOSEPH";
 
 
