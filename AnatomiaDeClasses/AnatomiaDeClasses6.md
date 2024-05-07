@@ -6,6 +6,8 @@ Iniciativa conceitual da comunidade.
 A linguagem Java sugere, atraves de convencoes, formas de escrita universal 
 para as classes, atributos, metodos e pacotes.
 
+
+
 Variaveis
 Sugestoes de nomeclaturas.
 - Uma variavel deve ser clara, sem abreviacoes ou definicoes sem sentido.
@@ -24,3 +26,20 @@ String[] emails = {"aluno@escola.com", "professor@escola.com"};
 String meuNome = "JOSEPH";
 
 
+
+Metodos
+Metodos sao nomeados como verbos, utilizando letras minusculas, com execao da primeira
+letra de cada palavra composta, apartir da segunda palavra.
+
+Exemplos sugeridos:
+somar(int n1, int n2){}
+abrirConexao(){}
+concluirProcessamento(){}
+
+// Existem metodos que ja estao programados pela linguagem(metodos em ingles)
+findById(int id){}
+
+// Agora neste metodo existe algo de errado, o nome nao esta d eacordo, 
+// pois ele e dubio, traz dificuldade de interpretacao.
+
+calcuarImprimir(){}
