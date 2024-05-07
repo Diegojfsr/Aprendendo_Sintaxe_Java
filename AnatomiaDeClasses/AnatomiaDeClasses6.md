@@ -12,6 +12,10 @@ Sugestoes de nomeclaturas.
 - Uma variavel e sempre no singular, exceto quando se referir a um array ou colecao.
 - Defina um idioma unico para suas variaveis. Se declarar uma variavel em ingles, defina todas em ingles.
 
+Nao recomendado
+double salMedio = 1500.23 // varivel abreviada
+String emails = "aluno@escola.com" // variavel no plural
+String myName = " JOSEPH"  // manter o mesmo idioma
 
 
 
