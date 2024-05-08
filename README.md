@@ -7,8 +7,6 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 > 📌  <strong>Curso Aprendendo a Sintaxe Java</strong>  
 > 📌  <strong>Instrutor Gleyson Sampaio</strong>  
 
-
-
 ### 🚦 Confira a grade completa
 
 ### Introdução  
