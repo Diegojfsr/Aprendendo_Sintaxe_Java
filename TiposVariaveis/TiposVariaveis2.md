@@ -16,3 +16,12 @@ Sincronizar com o repositorio local
 - Entrar em configuracao de sincronizacao e marcar o github
 - Liberar/autorizar o acesso
 - Clonar o repositorio
+
+
+Dentro da pasta do projeto local
+- Criar um novo projeto java
+- Sicronizar o novo projeto no github
+- Adicionar ao gitgnore os arquivos que nao precisam ser sincronizados
+- Renomear o arquivo App.java para TiposVariaveis.java
+- Comitar o projeto no github
+
