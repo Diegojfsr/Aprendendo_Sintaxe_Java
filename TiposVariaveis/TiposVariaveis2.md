@@ -11,4 +11,8 @@ No git hub
 - Adicionar um gitgnore
 - Marcar a linguagem Java
 
-
+Sincronizar com o repositorio local
+- Abrir o repositorio local no VsCode
+- Entrar em configuracao de sincronizacao e marcar o github
+- Liberar/autorizar o acesso
+- Clonar o repositorio
