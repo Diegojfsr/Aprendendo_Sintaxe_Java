@@ -28,6 +28,16 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 
 
 ### Operadores  
+> ☑️ [Operadores - 1]()
+> ☑️ [Operadores - 2]()
+> ☑️ [Operadores - 3]()
+> ☑️ [Operadores - 4]()
+> ☑️ [Operadores - 5]()
+> ☑️ [Operadores - 6]()
+> ☑️ [Operadores - 7]()
+
+
+
 
 
 ### 🤝 Contribuindo
