@@ -11,3 +11,17 @@ Variaveis
 - E obrigatorio declarar o tipo de uma variavel.
 
 
+Constantes
+- Constantes sao valores armazenados em memoria.
+- Nao podem ser modificadas depois de declaradas.
+- Em Java esses valores sao representados pela
+palavra reservada final, seguida do tipo.
+- Por convencao Constantes sao sempre escritas em CAIXA ALTA.
+
+
+
+
+
+
+
+
