@@ -39,6 +39,24 @@ Date dataNascimento = new Date();
 
 
 
+Aritimeticos
+E utilizado para realizar operacoes matematicas entre valores numericos, 
+podendo se tornar ou nao uma expressao mais complexa.
+Os operadores aritimeticos sao:
++(adicao)
+-(subtracao)
+*(multiplicacao)
+/(divisao)
+
+Veja o exemplo abaixo.
+// classe Operadore.java
+double soma = 10.5 + 15.7;
+int subtracao = 113 - 25;
+int multiplicacao = 20 * 7;
+int divisao = 15 / 3;
+int modulo = 18 % 3;
+double resultado = (10 * 7) + (20 / 4);
+
 
 
 
