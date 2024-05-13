@@ -58,6 +58,14 @@ int modulo = 18 % 3;
 double resultado = (10 * 7) + (20 / 4);
 
 
+Atencao:
+O operador de (+) quando utilizado em variaveis do tipo 
+texto, realizara a "concatenacao de textos".
+
+Vaja o exemplo abaixo.
+// classe Operadores.java
+String nomeCompleto = "Linguagem" + "Java";
+
 
 
 
