@@ -19,6 +19,23 @@ Operador	Comparacao
     >=		Maior Igual
 
 
+Classificacao dos Operadores
+
+Atribuicao
+Representado pelo simbolo (=)
+Ele e utilizado para definir o valor inicial ou sobrescrever 
+o valor de uma variavel.
+Em Java definimos um tipo, nome e opcionalmente atribuimos um valor a 
+variavel atraves do operador de atribuicao.
+
+Veja o exemplo abaixo.
+// class Operadores.java
+String nome = "Diego";
+int idade = 22;
+double peso = 68.5;
+char sexo = 'M';
+boolean doadorOrgao = false;
+Date dataNascimento = new Date();
 
 
 
@@ -26,4 +43,4 @@ Operador	Comparacao
 
 
 
-    
+
