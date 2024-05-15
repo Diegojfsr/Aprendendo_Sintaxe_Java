@@ -22,4 +22,22 @@ Decrementa o valor em uma unidade.
 Nega o valor de uma expressao booleana.
 
 
+Veja o exemplo abaixo.
+
+public class Teste {
+    public static void main(String[] args) {
+
+        int numero = -5;
+
+        numero = - numero;
+        
+        System.out.println(numero);
+
+        numero = - numero;
+        System.out.println(numero);
+
+        numero = - numero;
+        System.out.println(numero);
+    }
+}
 
