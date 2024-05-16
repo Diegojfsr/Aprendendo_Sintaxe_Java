@@ -11,4 +11,15 @@ Operador de decremento.
 Decrementa um valor em um. 
 Suponhamos que temos uma variável x do tipo int, se temos x-- é como se fosse x = x - 1.
 
+Veja o exemplo abaixo.
+
+public class Operadores{
+    public static void main(String[]args){
+        int numero = 5;
+        System.out.println(numero ++);
+        System.out.println(numero);
+        System.out.println(numero --);
+        System.out.println(numero);
+    }
+}
 
