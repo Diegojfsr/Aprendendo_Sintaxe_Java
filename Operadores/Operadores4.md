@@ -23,3 +23,16 @@ public class Operadores{
     }
 }
 
+Tambem utilizamos o operador 
+negacao (!) para inverter 
+variaveis booleanas.
+
+Veja o exemplo abaixo.
+
+public class Operadores{
+    public static void main(String[]args){
+        boolean variavel = true;
+        variavel = !variavel;
+        System.out.println(variavel);
+    }
+}
