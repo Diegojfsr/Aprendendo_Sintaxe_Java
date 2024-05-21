@@ -37,7 +37,7 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 > ☑️ [Operadores - 6]()  
 > ☑️ [Operadores - 7]()  
 
-
+### Métodos
 
 
 ### 🤝 Contribuindo
