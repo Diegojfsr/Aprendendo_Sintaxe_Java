@@ -38,7 +38,9 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 > ☑️ [Operadores - 7]()  
 
 ### Métodos
-
+> ☑️ [Métodos - 1]()  
+> ☑️ [Métodos - 2]()  
+> ☑️ [Métodos - 3]() 
 
 ### 🤝 Contribuindo
 Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
