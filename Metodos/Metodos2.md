@@ -44,6 +44,18 @@ Voce deve analisar se o metodo sera responsavel por retornar algum valor ou nao.
 Caso o metodo nao retorne nenhum valor, ele sera representado pela palavra-chave void.
 
 
+Mais alguns aspectos:
+
+1. Quais os parametros serao necessarios para execulsao do metodo?
+Os metodos as vezes precisao de argumentos como criterios para execucao.
+
+2. O metodo possui o risco de apresentar alguma excecao?
+Ececoes sao comuns na execucao de metodos, as vezes e necessario prever
+e tratar a possivel existencia de uma execao.
+
+3. Qual a visibilidade do metodo?
+Sera necessario que o metodo seja visivel a toda aplicacao, somente em pacotes
+atraves de heranca ou somente a nivel a propria classe.
 
 
 
