@@ -58,4 +58,44 @@ Sera necessario que o metodo seja visivel a toda aplicacao, somente em pacotes
 atraves de heranca ou somente a nivel a propria classe.
 
 
+Abaixo temos um exemplo de uma classe com dois metodos e suas respectivas consideracoes:
+
+public class MyClass{
+    public double somar(int num1, int num2){
+        //Logica - Finalidade do metodo
+    return;
+    }
+
+    public void imprimir(string texto){
+        //Logica - Finalidade Metodo
+        //Aqui nao precisa return, pois nao sera retornado nenhum resultado
+    }
+
+    //throws Exception : indica que o metodod ao ser utilizado podera gerar uma excecao.
+    public double dividir(int dividendo, int divisor) throws Exception{}
+
+
+    //Este Metodo nao pode ser visto por outras classes no projeto
+    private void metodoPrivado(){}
+
+    //Alguns equivocos estruturais
+    public void validar(){
+        //este metodo deveria retornar algum valor no caso boolean(true ou false)
+    }
+
+    public void calcularEnviar(){
+        //um metodo deve representar uma unica responsabilidade(ou vai calcular ou ai enviar)
+    }
+
+    public void gravarCliente(String nome, String cpf, Integer telefone){
+        //este metodo tem a finalidade de gravar informacoes de um cliente, por que
+        //nao criar um objeto cliente e passar como parametro?
+        //Veja abaixo.
+    }
+
+    public void gravarcliente(Cliente cliente){}
+        // ou tambem dessa forma
+    public void gravar(Cliente cliente){}
+
+}
 
