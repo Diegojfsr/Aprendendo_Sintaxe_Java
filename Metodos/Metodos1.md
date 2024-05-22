@@ -11,3 +11,11 @@ Pre Requisitos
 - IDE Configurada.
 
 
+Assuntos
+- Qual a proposta principal do metodo?
+- Qual o tipo de retorno esperado apos executar o metodo?
+- Quais os parametros serao necessarios para execucao do metodo?
+- O metodo possui o risco de apresentar alguma excessao?
+- Qual a visibilidade do metodo?
+
+
