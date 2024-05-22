@@ -61,9 +61,10 @@ atraves de heranca ou somente a nivel a propria classe.
 Abaixo temos um exemplo de uma classe com dois metodos e suas respectivas consideracoes:
 
 public class MyClass{
+    
     public double somar(int num1, int num2){
         //Logica - Finalidade do metodo
-    return;
+        return;
     }
 
     public void imprimir(string texto){
