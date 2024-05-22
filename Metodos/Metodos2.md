@@ -17,4 +17,14 @@ Para metodos os criterios sao:
 - Seguir o padrao camelCase(Todas as letras minusculas com execao da primeira letra da segunda palavra)
 
 
+Exemplos sugeridos para nomeclatura de metodos:
+    somar(int n1, int n2){}
+    abrirConexao(){}
+    concluirProcessamento(){}
+    findById(int id){} //Esse e um metodo muito comum, veremos muito ele.
+    calcularImprir(){} //Metodo com conflito de finalidade, o nome deve ser referente ao que o metodo faz.
+
+Atencao:
+Nao exite em Java o cenceito de metodos globais.
+Todos os metodos devem sempre ser definidos dentro de uma classe.
 
