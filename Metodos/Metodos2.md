@@ -28,3 +28,22 @@ Atencao:
 Nao exite em Java o cenceito de metodos globais.
 Todos os metodos devem sempre ser definidos dentro de uma classe.
 
+
+Criterios de definicao de metodos
+Como sabemos a melhor forma de definir os metodos das nossas classes?
+Para chegar a conclusao somos auxiliados por uma convencao estrutural para todos os metodos.
+
+Essa convencao e determinada pelos aspectos abaixo:
+
+1. Qual a proposta principal do metodo?
+Voce deve se perguntar constantemente ate compreender a real finalidade do mesmo.
+
+2. Qual o tipo de retorno esperado apos executar o metodo?
+Voce deve analisar se o metodo sera responsavel por retornar algum valor ou nao.
+
+Caso o metodo nao retorne nenhum valor, ele sera representado pela palavra-chave void.
+
+
+
+
+
