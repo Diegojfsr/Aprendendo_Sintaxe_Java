@@ -43,8 +43,8 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 > ☑️ [Métodos - 3]() 
 
 ### Escopo
-> ☑️ [Escopo - 1]()
-> ☑️ [Escopo - 2]()
+> ☑️ [Escopo - 1]()  
+> ☑️ [Escopo - 2]()  
 
 
 
