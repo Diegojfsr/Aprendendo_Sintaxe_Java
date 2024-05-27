@@ -9,4 +9,9 @@ algoritmos necessario para o
 nosso programa.
 
 
+Pre-requisitos
+
+- Diretorio do projeto definido
+- Integracao com o github
+- IDE configurada
 
