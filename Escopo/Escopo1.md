@@ -15,3 +15,10 @@ Pre-requisitos
 - Integracao com o github
 - IDE configurada
 
+
+Assuntos
+
+- Escopo de classe
+- Escopo de metodo
+- Escopo de fluxo
+
