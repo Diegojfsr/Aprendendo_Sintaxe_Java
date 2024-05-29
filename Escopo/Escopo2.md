@@ -18,4 +18,10 @@ Caso voce declare uma variavel dentro de um metodo, o escopo desssa
 variavel esta limitado ampenas ao corpo de metodo, ou seja,
 dentro das chaves que limitam o metodo.
 
+Uma parte fundamental na elaboracao de algoritmos simples ou complexos e 
+determinar a localizacao do codigo em questao.
+Sem um dominio sobre escopo de codigos seu projeto tende a conter falhas
+estruturais e comprometer a proposta principal da aplicacao.
+
+
 
