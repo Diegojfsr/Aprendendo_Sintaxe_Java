@@ -10,7 +10,9 @@ interpretador sair do bloco de execucao ao qual ela pertence.
 Portanto esta variavel nao pode ser lida ou manipulada por rotinas e codigos 
 que estao fora do seu bloco de declaracao, ou seja, fora do escopo da variavel.
 
-
+Em uma classe podemos visualizar a diferenca de escopos.
+Os atributos(variaveis) sao declarados no corpo principal
+da classe, sendo portanto acessivel por todos os metodos.
 
 
 
