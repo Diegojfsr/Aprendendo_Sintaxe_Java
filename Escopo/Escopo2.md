@@ -14,5 +14,8 @@ Em uma classe podemos visualizar a diferenca de escopos.
 Os atributos(variaveis) sao declarados no corpo principal
 da classe, sendo portanto acessivel por todos os metodos.
 
+Caso voce declare uma variavel dentro de um metodo, o escopo desssa
+variavel esta limitado ampenas ao corpo de metodo, ou seja,
+dentro das chaves que limitam o metodo.
 
 
