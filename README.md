@@ -46,6 +46,9 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 > ☑️ [Escopo - 1]()  
 > ☑️ [Escopo - 2]()  
 
+### Palavras Reservadas
+> ☑️ [Palavras Reservadas - 1]()
+> ☑️ [Palavras Reservadas - 2]()
 
 
 ### 🤝 Contribuindo
