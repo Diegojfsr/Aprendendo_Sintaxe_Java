@@ -47,8 +47,8 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 > ☑️ [Escopo - 2]()  
 
 ### Palavras Reservadas
-> ☑️ [Palavras Reservadas - 1]()
-> ☑️ [Palavras Reservadas - 2]()
+> ☑️ [Palavras Reservadas - 1]()  
+> ☑️ [Palavras Reservadas - 2]()  
 
 
 ### 🤝 Contribuindo
