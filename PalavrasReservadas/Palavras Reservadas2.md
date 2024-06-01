@@ -69,6 +69,23 @@ thread de cada vez
 - volate, idica que uma variavel pode ser alterada durante o uso de threads
 
 
+Controle de fluxo dentro de um bloco de codigo
+- break, sai do bloco de codigo em que ele esta
+- case, executa um bloco de codigo dependendo do teste do switch
+- continue, pula a execucao do codigo que viria apos essa linha e
+vai para a proxima passagem do loop
+- default, executa esse bloco de código caso nenhum dos teste de switch-case seja verdadeiro
+- do, executa um bloco de código uma vez, e então realiza um teste em conjunto com o while 
+para determinar se o bloco deverá ser executado novamente;
+- else, executa um bloco de código alternativo caso o teste "if" seja falso
+- for, usado para realizar um loop condicional de um bloco de código
+- if, usado para realizar um teste lógico de verdadeiro ou falso
+- instanceof, determina se um objeto é uma instância de determinada 
+classe, superclasse ou interface
+- return, retorna um método sem executar qualquer código, que venha depois 
+desta linha (também pode retornar uma variável)
+- switch, indica a variável a ser comparada nas expressões case
+- while, executa um bloco de código repetidamente enquanto a condição for verdadeira
 
 
 
