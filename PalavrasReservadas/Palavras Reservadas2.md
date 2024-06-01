@@ -46,3 +46,40 @@ Primitivos
 
 
 
+Modificadores de classes
+- abstract, classe que nao ppode ser instanciada ou metodo que precisa ser 
+implementado por uma subclasse nao abstrata
+- class, especifica uma classe
+- extends, indica a superclasse que a subclasse esta estendendo
+- final, impossibilita que uma classe seja estendida, que um metodo
+seja sobrescrito ou que uma variavel seja reiniciada
+- implements, indica as interfaces que uma classe ira implementar
+- interface, especifica uma interface
+- native, indica que um metodo esta escrito em uma linguagem dependente
+de plataforma, como o C
+- new, instancia um novo objeto, chamando seu construtor
+- static, faz um metodo ou variavel pertencer a classe ao inves de 
+as instancias
+- strictfp, usado em frente a um metodo ou classe para indicar que os
+numeros de ponto flutuante seguirao as regras de ponto flutuante
+em todas as expressoes
+- synchronized, indica que um metodo so pode ser acessado por uma 
+thread de cada vez
+- transient, impede a serialização de campos
+- volate, idica que uma variavel pode ser alterada durante o uso de threads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
