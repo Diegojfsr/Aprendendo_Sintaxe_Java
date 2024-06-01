@@ -88,15 +88,25 @@ desta linha (também pode retornar uma variável)
 - while, executa um bloco de código repetidamente enquanto a condição for verdadeira
 
 
+Tratamento de erros
+- assert, testa uma expressão condicional, para verificar uma suposição do programador
+- catch, declara o bloco de código usado para tratar uma exceção
+- finally, bloco de código, após um try-catch, que é executado independentemente do fluxo de 
+programa seguido ao lidar com uma exceção
+- throw, usado para passar uma exceção para o método que o chamou
+- throws, indica que um método pode passar uma exceção para o método que o chamou
+- try, bloco de código que tentará ser executado, mas que pode causar uma exceção
 
+Variáveis de referência
+- super, refere-se a superclasse imediata
+- this, refere-se a instância atual do objeto
 
+Palavras reservadas não utilizadas
+- const, Não utilize para declarar constantes, use public static final
+- goto, não implementada na linguagem Java, por ser considerada prejudicial.
 
-
-
-
-
-
-
-
-
-
+Literais reservados
+De acordo com a Java Language Specification, null, true e false são tecnicamente 
+chamados de valores literais, e não keywords. 
+Se você tentar criar algum identificador com estes valores, 
+você também terá um erro de compilação.
