@@ -22,11 +22,12 @@ Java Documentation e consposto por tags que representam dados
 relevantes para a compreensao da proposta de uma classe e os conjuntos de seus metodos 
 a atributos conforme tabela abaixo.
 
-Tag         Descricao
-@autor      Autor/Criador
-@version    Versao do recurso disponibilizado
-@since      Versao/Data de inicio da disponibilizacao do recurso
-@param      Descricao dos parametros dos metodos criados
-@return     Definicao do tipo de retorno um metodo
-@throws     Se o metodo lanca alguma execao
+
+Tag         Descricao  
+@autor      Autor/Criador  
+@version    Versao do recurso disponibilizado  
+@since      Versao/Data de inicio da disponibilizacao do   recurso  
+@param      Descricao dos parametros dos metodos criados  
+@return     Definicao do tipo de retorno um metodo  
+@throws     Se o metodo lanca alguma execao  
 
