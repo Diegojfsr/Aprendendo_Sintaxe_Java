@@ -56,10 +56,10 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 
 ### Terminal e Argumantos
 > ☑️ [Java Doc - 1]()  
-> ☑️ [Java Doc - 1]()  
-> ☑️ [Java Doc - 1]()  
-> ☑️ [Java Doc - 1]()  
-> ☑️ [Java Doc - 1]()  
+> ☑️ [Java Doc - 2]()  
+> ☑️ [Java Doc - 3]()  
+> ☑️ [Java Doc - 4]()  
+> ☑️ [Java Doc - 5]()  
 
 
 ### 🤝 Contribuindo
