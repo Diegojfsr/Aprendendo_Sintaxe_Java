@@ -59,7 +59,7 @@ _Este repositório foi criado para documentar todo o meu passo a passo, projetos
 > ☑️ [Java Doc - 2]()  
 > ☑️ [Java Doc - 3]()  
 > ☑️ [Java Doc - 4]()  
-> ☑️ [Java Doc - 5]()
+> ☑️ [Java Doc - 5]()  
 > ☑️ [Material de Apoio]()  
 > ☑️ [Certifique seu Conhecimento]()  
 
